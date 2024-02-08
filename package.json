@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-web-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sencerarslan/nodejs-web-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sencerarslan/nodejs-web-scraping/issues"
+  },
+  "homepage": "https://github.com/sencerarslan/nodejs-web-scraping#readme",
+  "dependencies": {
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.1.7"
+  }
+}
